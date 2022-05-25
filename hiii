@@ -1,0 +1,13 @@
+</head>
+<body>
+
+<div id="header"></div>
+<div id="footer"></div>
+
+<div id="fullpage">
+	<div class="section" id="section0">
+		<div class="intro">
+			<h1>Hi.</h1>
+			<p>Thank you.</p>
+		</div>
+	</div>
